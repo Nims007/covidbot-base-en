@@ -1,0 +1,31 @@
+{
+  "id": "c12c1907-5258-4c8a-9de4-b69f5b613fb8",
+  "name": "covidbot-en",
+  "default_flow": "Default",
+  "flows": [
+    {
+      "name": "Default",
+      "description": "Default custom flow",
+      "commands": []
+    },
+    {
+      "name": "fake_news",
+      "commands": []
+    },
+    {
+      "name": "good_gestures",
+      "commands": []
+    },
+    {
+      "name": "mask",
+      "commands": []
+    },
+    {
+      "name": "resources",
+      "commands": []
+    }
+  ],
+  "files": [],
+  "functions": [],
+  "apps": []
+}
